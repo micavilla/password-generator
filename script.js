@@ -57,7 +57,7 @@ function generatePassword() {
 
   // choose random chars from arr based on user input
   // var push into new array
-  // var password = turn array into string .toString()
+  // var password = turn array into string
   var password = "";
   for(var i = 0; i < charNum; i++){
     var random = Math.floor(Math.random() * passwordChar.length);
