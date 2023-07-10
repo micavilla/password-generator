@@ -11,4 +11,4 @@ Daniel Lee: https://github.com/drog41813
 ## Usage
 ![Webpage Screenshot](Assets/screencapture-file-C-Users-18322-Desktop-bootcamp-password-generator-index-html-2023-07-03-13_57_12.png)
 
-https://github.com/micavilla/password-generator
+https://micavilla.github.io/password-generator/
